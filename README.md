@@ -24,7 +24,7 @@ Welcome to my GitHub profile. I'm a budding Data Scientist currently delving int
 
 ## 📊 Projects
 
-1. **[Data Analysis Project](https://github.com/anusha-shams/data-cleaning-project):**
+1. **[Data Analysis Project](https://github.com/anushashams/Data-Analysis-project/blob/main/data_analysis(v1).ipynb):**
    A project focused on cleaning and preprocessing data using Pandas. Along with Performing EDA on a dataset to uncover insights and trends and implementing and understanding linear regression models.
 
 ## 📫 Connect with Me
